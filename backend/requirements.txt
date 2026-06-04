@@ -1,0 +1,9 @@
+fastapi[all]
+motor
+passlib[bcrypt]
+pyjwt
+python-dotenv
+openai
+pydantic[email]
+PyMuPDF
+python-multipart
